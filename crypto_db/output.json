@@ -1,0 +1,28 @@
+[
+    {
+      "Source.Name": "Aeternity.csv",
+      "Column1": 0,
+      "Date": "2021-12-06",
+      "Open": 0.1398,
+      "High": 0.142,
+      "Low": 0.1278,
+      "Close": 0.1404,
+      "Volume": 6178135.0,
+      "Market Cap": 48816648.0,
+      "Circulating Supply": 347696923.0
+    },
+    {
+      "Source.Name": "Aeternity.csv",
+      "Column1": 1,
+      "Date": "2021-12-05",
+      "Open": 0.1369,
+      "High": 0.1418,
+      "Low": 0.1332,
+      "Close": 0.1397,
+      "Volume": 5473800.0,
+      "Market Cap": 48565153.0,
+      "Circulating Supply": 347638890.0
+    }
+    
+  ]
+  

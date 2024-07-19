@@ -69,10 +69,10 @@ If you encounter any issues or have suggestions, please open an issue on the rep
 
 
 ## Team Members
-- Lagan Mittal
-- Yuvraj Singh
-- Bhupesh
 - Krishna Chauhan
+- Dilshad Ans
+- Prakash Singh Rawat
+- Mohd. Aftab
 ## Deployment
 
 To deploy this project run
